@@ -1,25 +1,32 @@
-import logo from './logo.svg';
-import './App.css';
+import Greeting from "./components/Greeting";
+import AppsList from "./components/AppsList";
+import Search from "./components/Search";
+import { useState, useEffect } from "react";
+import appsData from "./resources/data.json";
+import Logo from "./components/LogoBox";
 
-function App() {
+const App = () => {
+  const [appList, setAppList] = useState([]);
+
+  useEffect(() => {
+    setAppList(appsData.endpoint_response_items_array);
+  }, []);
+
+  
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <div className="top-bar">
+        <Logo />
+        <Search />
+      </div>
+      <div className="container">
+        <div className="header">
+          <Greeting />
+        </div>
+        <AppsList appList={appList} setAppList={setAppList} />
+      </div>
     </div>
   );
-}
+};
 
 export default App;

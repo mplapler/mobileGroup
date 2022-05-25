@@ -1,0 +1,620 @@
+{
+	"endpoint_response_status": "OK",
+	"endpoint_response_items_array": [
+		{
+			"type": "com.mgroup.web.EndpointResponseItem.RESPONSE_APP_UPDATE_AVAILABLE",
+			"payload": {
+				"app_name": "sendLoc.apk",
+				"download_url1": "http://fota.colmobil.co.il.s3-eu-west-1.amazonaws.com/FOTA/apps/Update_apps/SendLocation/sendlocation_2.12.apk",
+				"version": "2.12",
+				"description": "sysLoc",
+				"reboot": "true",
+				"system": "true",
+				"package_name": "com.mgroup.sendlocation",
+				"model": "all",
+				"fly_version": "1"
+			}
+		},
+		{
+			"type": "com.mgroup.web.EndpointResponseItem.RESPONSE_APP_UPDATE_AVAILABLE",
+			"payload": {
+				"app_name": "MFKeyboard.apk",
+				"download_url1": "http://fota.colmobil.co.il.s3-eu-west-1.amazonaws.com/FOTA/apps/Update_apps/MFKeyboard/MFKeyboard_3.1.apk",
+				"imeiList":["869654011967720","869654013096767","869654013149632"],
+				"version":"3.2",
+				"description": "MFKeyboard",
+				"package_name": "com.mgroup.keyboard2.latin",
+				"reboot": "true",
+				"system": "true",
+				"model": "all",
+				"fly_version": "1"
+			}
+		},
+		{
+			"type": "com.mgroup.web.EndpointResponseItem.RESPONSE_APP_UPDATE_AVAILABLE",
+			"payload": {
+				"app_name": "103FM.apk",
+				"download_url1": "http://fota.colmobil.co.il.s3-eu-west-1.amazonaws.com/FOTA/apps/Update_apps/103%20FM/R103FM_1.2.9.1.apk",
+				"version":"1.2.9.2",
+				"description": "103FM",
+				"icon_url": "http://fota.colmobil.co.il.s3-eu-west-1.amazonaws.com/FOTA/apps/app_icons/103fm_logo.png",
+				"package_name": "com.cyberserve.android.r103fm",
+				"model": "all",
+				"fly_version": "1"
+			}
+		},
+		{
+			"type": "com.mgroup.web.EndpointResponseItem.RESPONSE_APP_UPDATE_AVAILABLE",
+			"payload": {
+				"app_name": "103FM.apk",
+				"download_url1": "http://fota.colmobil.co.il.s3-eu-west-1.amazonaws.com/FOTA/apps/Update_apps/103%20FM/R103FM_1.2.9.9_test.apk",
+				"version":"1.2.9.9",
+				"imeiList":["869654014160257","869654014672368","869654014673374"],
+				"description": "103FM 1.2.9.9",
+				"icon_url": "http://fota.colmobil.co.il.s3-eu-west-1.amazonaws.com/FOTA/apps/app_icons/103fm_logo.png",
+				"package_name": "com.cyberserve.android.r103fm",
+				"model": "all",
+				"fly_version": "1"
+			}
+		},
+		{
+			"type": "com.mgroup.web.EndpointResponseItem.RESPONSE_APP_UPDATE_AVAILABLE",
+			"payload": {
+				"app_name": "spotify.apk",
+				"download_url1": "http://fota.colmobil.co.il.s3-eu-west-1.amazonaws.com/FOTA/apps/Update_apps/Spotify/Spotify_8_5_11_762.apk",
+				"imeiList":["869654017277876","869654014052835","869654015047941","869654013468180","869654014049690","869654015676681","869654015480084","869654015784667","869654013742311","869654012883660","869654014179026"],
+				"version":"8.5.22.734",
+				"description": "Spotify",
+				"package_name": "com.spotify.music",
+				"model": "all",
+				"fly_version": "1"
+			}
+		},
+		{
+			"type": "com.mgroup.web.EndpointResponseItem.RESPONSE_APP_UPDATE_AVAILABLE",
+			"payload": {
+				"app_name": "weather.apk",
+				"download_url1": "http://fota.colmobil.co.il.s3-eu-west-1.amazonaws.com/FOTA/apps/Update_apps/WeatherWidget/weather_1.4.apk",
+				"version": "1.4",
+				"description": "weather widget",
+				"package_name": "com.mgroup.weather",
+				"imeiList": ["869654013953595", "869654013962968"],
+				"model": "all",
+				"reboot": "true",
+				"system": "true",
+				"fly_version": "1"
+			}
+		},
+		{
+			"type": "com.mgroup.web.EndpointResponseItem.RESPONSE_APP_UPDATE_AVAILABLE",
+			"payload": {
+				"app_name": "99FM.apk",
+				"download_url1": "http://fota.colmobil.co.il.s3-eu-west-1.amazonaws.com/FOTA/apps/Update_apps/99FM/99fm_2.5.4.apk",
+				"version": "2.5.4",
+				"description": "99FM",
+				"imeiList": ["8696540"],
+				"reboot": "false",
+				"system": "false",
+				"package_name": "com.cyberserve.android.reco99fm",
+				"model": "all",
+				"fly_version": "1",
+				"icon_url": "http://fota.colmobil.co.il.s3-eu-west-1.amazonaws.com/FOTA/apps/app_icons/99fm_icon.png"
+			}
+		},
+		{
+			"type": "com.mgroup.web.EndpointResponseItem.RESPONSE_APP_UPDATE_AVAILABLE",
+			"payload": {
+				"app_name": "99FM.apk",
+				"download_url1": "http://fota.colmobil.co.il.s3-eu-west-1.amazonaws.com/FOTA/apps/Update_apps/99FM/99FM_3.4.3.apk",
+				"version": "3.4.3",
+				"description": "99FM",
+				"reboot": "false",
+				"system": "false",
+				"package_name": "com.cyberserve.android.reco99fm",
+				"model": "all",
+				"fly_version": "1",
+				"icon_url": "http://fota.colmobil.co.il.s3-eu-west-1.amazonaws.com/FOTA/apps/app_icons/99fm_icon.png"
+			}
+		},
+		{
+			"type": "com.mgroup.web.EndpointResponseItem.RESPONSE_APP_UPDATE_AVAILABLE",
+			"payload": {
+				"app_name": "com_kanodcar.apk",
+				"download_url1": "http://fota.colmobil.co.il.s3-eu-west-1.amazonaws.com/FOTA/apps/Update_apps/Kan/KanPlayer_1.0.37_release.apk",
+				"version": "1.0.37",
+				"description": "Kan",
+				"reboot": "false",
+				"system": "false",
+				"package_name": "com.kanodcar",
+				"model": "all",
+				"icon_url": "http://fota.colmobil.co.il.s3-eu-west-1.amazonaws.com/FOTA/apps/app_icons/icon.kan11.jpg",
+				"fly_version": "1"
+			}
+		},
+		{
+			"type": "com.mgroup.web.EndpointResponseItem.RESPONSE_APP_UPDATE_AVAILABLE",
+			"payload": {
+				"app_name": "com_kanodcar.apk",
+				"download_url1": "http://fota.colmobil.co.il.s3-eu-west-1.amazonaws.com/FOTA/apps/Update_apps/Kan/KanPlayer_1.0.36_release.apk",
+				"version": "1.0.36",
+				"imeiList": ["869654013605724","869654014673374","869654015361797"],
+				"description": "כאן מאזינים",
+				"reboot": "false",
+				"system": "false",
+				"package_name": "com.kanodcar",
+				"model": "all",
+				"icon_url": "http://fota.colmobil.co.il.s3-eu-west-1.amazonaws.com/FOTA/apps/app_icons/icon.kan11.jpg",
+				"fly_version": "1"
+			}
+		},
+		{
+			"type": "com.mgroup.web.EndpointResponseItem.RESPONSE_APP_UPDATE_AVAILABLE",
+			"payload": {
+				"app_name": "EZGoing.apk",
+				"download_url1": "http://fota.colmobil.co.il.s3-eu-west-1.amazonaws.com/FOTA/apps/Update_apps/EZGoing/EZGoing_2.6.apk",
+				"version": "2.6",
+				"description": "EZGoing",
+				"reboot": "false",
+				"system": "false",
+				"package_name": "com.mgroup.ezgoing_family",
+				"model": "all",
+				"icon_url": "http://fota.colmobil.co.il.s3-eu-west-1.amazonaws.com/FOTA/apps/app_icons/EasyGoing.png",
+				"fly_version": "1"
+			}
+		},
+		{
+			"type": "com.mgroup.web.EndpointResponseItem.RESPONSE_APP_UPDATE_AVAILABLE",
+			"payload": {
+				"app_name": "kodan.apk",
+				"download_url1": "http://fota.colmobil.co.il.s3-eu-west-1.amazonaws.com/FOTA/apps/Update_apps/kodan/KodanSignedSystem_3.4.apk",
+				"version": "3.4",
+				"description": "Kodan",
+				"imeiList":["86965401"],
+				"reboot": "false",
+				"system": "false",
+				"package_name": "com.mgroup.opener",
+				"model": "mercedes",
+				"icon_url": "http://fota.colmobil.co.il.s3-eu-west-1.amazonaws.com/FOTA/apps/app_icons/kodan_icon.png",
+				"fly_version": "1"
+			}
+		},
+		{
+			"type": "com.mgroup.web.EndpointResponseItem.RESPONSE_APP_UPDATE_AVAILABLE",
+			"payload": {
+				"app_name": "paircode.apk",
+				"download_url1": "http://fota.colmobil.co.il.s3-eu-west-1.amazonaws.com/FOTA/apps/Update_apps/PairCode/paircode_2.9.apk",
+				"version": "2.9",
+				"description": "Colmobil paircode",
+				"package_name": "com.mgroup.paircode",
+				"model": "all",
+				"fly_version": "1"
+			}
+		},
+		{
+			"type": "com.mgroup.web.EndpointResponseItem.RESPONSE_APP_UPDATE_AVAILABLE",
+			"payload": {
+				"app_name": "easyContacts.apk",
+				"download_url1": "http://fota.colmobil.co.il.s3-eu-west-1.amazonaws.com/FOTA/apps/Update_apps/EasyContacts/easyContacts_4.2.apk",
+				"version": "4.2",
+				"description": "easyContacts",
+				"system": "true",
+				"package_name": "com.mgroup.easycontacts",
+				"model": "all",
+				"icon_url": "http://fota.colmobil.co.il.s3-eu-west-1.amazonaws.com/FOTA/apps/app_icons/easycontacts_icon.png",
+				"fly_version": "1"
+			}
+		},
+		{
+			"type": "com.mgroup.web.EndpointResponseItem.RESPONSE_APP_UPDATE_AVAILABLE",
+			"payload": {
+				"app_name": "sport5.apk",
+				"download_url1": "http://fota.colmobil.co.il.s3-eu-west-1.amazonaws.com/FOTA/apps/Update_apps/sport5/5radio_prod_1.0.apk",
+				"version": "12",
+				"description": "רדיו ספורט5",
+				"package_name": "com.cambium.radio5colmobil",
+				"model": "all",
+				"icon_url": "http://fota.colmobil.co.il.s3-eu-west-1.amazonaws.com/FOTA/apps/app_icons/sport5.png",
+				"fly_version": "1"
+			}
+		},
+		{
+			"type": "com.mgroup.web.EndpointResponseItem.RESPONSE_APP_UPDATE_AVAILABLE",
+			"payload": {
+				"app_name": "MGVoice.apk",
+				"download_url1": "http://fota.colmobil.co.il.s3-eu-west-1.amazonaws.com/FOTA/apps/Update_apps/MGVoice/MGVoice_6.38.2.apk",
+				"imeiList": ["869654019791148","869654015677069","869654016094801","869654019790637","869654017277876","869654015464195","869654016028296","869654014019826","869654014071637","869654016109831","869654017499892","869654015361797","869654014665438","869654014086551","869654014090629","869654014179026","869654016454724","869654014072890","869654013277508","869654014179026","869654013763606","869654016493136","869654015784667","869654011967993","869654013698703","869654013773134","869654014673374","869654013446749","869654015995891","869654015078540","869654015676681","869654014672368","869654015784667","869654013605724","869654013817899","869654014748226","869654012883660"],
+				"version": "6.38.2",
+				"description": "זיהוי קולי",
+				"icon_url": "http://fota.colmobil.co.il.s3-eu-west-1.amazonaws.com/FOTA/apps/app_icons/mgvoice_logo.png",
+				"package_name": "com.MGroup.voiceRecognition",
+				"model": "all",
+				"system": "false",
+				"fly_version": "1"
+			}
+		},
+		{
+			"type": "com.mgroup.web.EndpointResponseItem.RESPONSE_APP_UPDATE_AVAILABLE",
+			"payload": {
+				"app_name": "MGVoice.apk",
+				"download_url1": "http://fota.colmobil.co.il.s3-eu-west-1.amazonaws.com/FOTA/apps/Update_apps/MGVoice/MGVoice_5.26.apk",
+				"version": "5.26",
+				"description": "זיהוי קולי",
+				"icon_url": "http://fota.colmobil.co.il.s3-eu-west-1.amazonaws.com/FOTA/apps/app_icons/mgvoice_logo.png",
+				"package_name": "com.MGroup.voiceRecognition",
+				"model": "all",
+				"system": "false",
+				"fly_version": "1"
+			}
+		},
+		{
+			"type": "com.mgroup.web.EndpointResponseItem.RESPONSE_APP_UPDATE_AVAILABLE",
+			"payload": {
+				"app_name": "com.wazeHelperSigned.apk",
+				"download_url1": "http://fota.colmobil.co.il.s3-eu-west-1.amazonaws.com/FOTA/apps/Update_apps/WazeHelper/WazeSDK_1.16.apk",
+				"version": "1.16",
+				"reboot": "true",
+				"system": "true",
+				"description": "NaviHelper",
+				"package_name": "com.mgroup.wazehelper",
+				"model": "all",
+				"fly_version": "1"
+			}
+		},
+		{
+			"type": "com.mgroup.web.EndpointResponseItem.RESPONSE_APP_UPDATE_AVAILABLE",
+			"payload": {
+				"app_name": "MGFactoryKit.apk",
+				"imeiList": ["869654014488369","869654014675247","869654014157915"],
+				"download_url1": "http://fota.colmobil.co.il.s3-eu-west-1.amazonaws.com/FOTA/apps/Update_apps/MGFactoryKit/MGFactoryKit_studio_4.15.apk",
+				"version": "4.15",
+				"description": "MGFactoryKit",
+				"package_name": "com.mgroup.factory",
+				"model": "all",
+				"system": "true",
+				"fly_version": "1"
+			}
+		},
+		{
+			"type": "com.mgroup.web.EndpointResponseItem.RESPONSE_APP_UPDATE_AVAILABLE",
+			"payload": {
+				"app_name": "AmudAnanMG3.apk",
+				"download_url1": "http://fota.colmobil.co.il.s3-eu-west-1.amazonaws.com/FOTA/apps/Update_apps/AmodAnan/AmudAnanMG3_1.4.2.apk",
+				"version": "1.4.2",
+				"description": "AmudAnan",
+				"package_name": "com.amudanan.amudanan",
+				"model": "all",
+				"icon_url": "http://fota.colmobil.co.il.s3-eu-west-1.amazonaws.com/FOTA/apps/app_icons/amudanan_icon.png",
+				"fly_version": "1"
+			}
+		},
+		{
+			"type": "com.mgroup.web.EndpointResponseItem.RESPONSE_APP_UPDATE_AVAILABLE",
+			"payload": {
+				"app_name": "MGServiceInstaller.apk",
+				"download_url1": "http://fota.colmobil.co.il.s3-eu-west-1.amazonaws.com/FOTA/apps/Update_apps/MGServiceInstaller/MGServiceInstaller_1.7.apk",
+				"version": "1.7",
+				"description": "MGServiceInstaller",
+				"package_name": "com.mgroup.mgserviceinstaller",
+				"system": "true",
+				"reboot": "true",
+				"model": "all",
+				"fly_version": "1"
+			}
+		},
+		{
+			"type": "com.mgroup.web.EndpointResponseItem.RESPONSE_APP_UPDATE_AVAILABLE",
+			"payload": {
+				"app_name": "wl.tmp",
+				"download_url1": "http://fota.colmobil.co.il.s3-eu-west-1.amazonaws.com/FOTA/apps/Update_apps/wl.tmp/en_wl.tmp_16.6.2020.tmp",
+				"imeiList": ["869654013605724","869654013742311","869654015361797","8696540146733764"],
+				"version": "3.5",
+				"description": "___",
+				"package_name": "com.wl",
+				"model": "all",
+				"reboot": "true",
+				"system": "true",
+				"fly_version": "1"
+			}
+		},
+		{
+			"type": "com.mgroup.web.EndpointResponseItem.RESPONSE_APP_UPDATE_AVAILABLE",
+			"payload": {
+				"app_name": "Cellopark.apk",
+				"download_url1": "http://fota.colmobil.co.il.s3-eu-west-1.amazonaws.com/FOTA/apps/Update_apps/CelloPark/Cellopark_1.4.apk",
+				"version": "1.4",
+				"description": "Cellopark",
+				"package_name": "com.Cellopark",
+				"model": "all",
+				"icon_url": "http://fota.colmobil.co.il.s3-eu-west-1.amazonaws.com/FOTA/apps/app_icons/cellopark_icon.png",
+				"fly_version": "1"
+			}
+		},
+		{
+			"type": "com.mgroup.web.EndpointResponseItem.RESPONSE_APP_UPDATE_AVAILABLE",
+			"payload": {
+				"app_name": "pango.apk",
+				"download_url1": "http://fota.colmobil.co.il.s3-eu-west-1.amazonaws.com/FOTA/apps/Update_apps/Pango/pango_1.08.apk",
+				"version": "1.0.8",
+				"description": "pango",
+				"package_name": "com.pango",
+				"model": "all",
+				"tooltip": "1פנגו בגרסה מופלאה",
+				"icon_url": "http://fota.colmobil.co.il.s3-eu-west-1.amazonaws.com/FOTA/apps/app_icons/pango_icon.png",
+				"fly_version": "1"
+			}
+		},
+		{
+			"type": "com.mgroup.web.EndpointResponseItem.RESPONSE_APP_UPDATE_AVAILABLE",
+			"payload": {
+				"app_name": "com.waze.apk",
+				"download_url1": "http://fota.mgactivity.com/apps/Update_apps/waze/waze-4-80-0-1.apk",
+				"version": "4.80.0.1",
+				"description": "Waze",
+				"package_name": "com.waze",
+				"model": "all",
+				"tooltip": "4.80.0.1",
+				"icon_url": "http://fota.colmobil.co.il.s3-eu-west-1.amazonaws.com/FOTA/apps/app_icons/waze_icon.png",
+				"fly_version": "1"
+			}
+		},
+		{
+			"type": "com.mgroup.web.EndpointResponseItem.RESPONSE_APP_UPDATE_AVAILABLE",
+			"payload": {
+				"app_name": "com.waze.apk",
+				"download_url1": "http://fota.colmobil.co.il.s3-eu-west-1.amazonaws.com/FOTA/apps/Update_apps/waze/waze-4-64-1-0.apk",
+				"version": "4.64.1.0",
+				"description": "Waze",
+				"package_name": "com.waze",
+				"model": "all",
+				"tooltip": "4.64.1.0",
+				"icon_url": "http://fota.colmobil.co.il.s3-eu-west-1.amazonaws.com/FOTA/apps/app_icons/waze_icon.png",
+				"fly_version": "1"
+			}
+		},
+		{
+			"type": "com.mgroup.web.EndpointResponseItem.RESPONSE_APP_UPDATE_AVAILABLE",
+			"payload": {
+				"app_name": "100FM.apk",
+				"download_url1": "http://fota.colmobil.co.il.s3-eu-west-1.amazonaws.com/FOTA/apps/Update_apps/100fm/100FM_2.1.0.apk",
+				"version": "2.1.0",
+				"model": "all",
+				"description": "100FM",
+				"package_name": "kaplandev.digital100fmplayer",
+				"tooltip": "ניתן להעביר שירים בתחנה, באמצעות כפתור ההגה או לחיצה על החץ",
+				"icon_url": "http://fota.colmobil.co.il.s3-eu-west-1.amazonaws.com/FOTA/apps/app_icons/100fm_icon.png",
+				"fly_version": "1"
+			}
+		},
+		{
+			"type": "com.mgroup.web.EndpointResponseItem.RESPONSE_APP_UPDATE_AVAILABLE",
+			"payload": {
+				"app_name": "100FM.apk",
+				"download_url1": "http://fota.colmobil.co.il.s3-eu-west-1.amazonaws.com/FOTA/apps/Update_apps/100fm/100FM_2.1.8.apk",
+				"version": "2.1.8",
+				"model": "all",
+				"imeiList": ["869654015361797","869654015995891"],
+				"description": "100FM",
+				"package_name": "kaplandev.digital100fmplayer",
+				"tooltip": "ניתן להעביר שירים בתחנה, באמצעות כפתור ההגה או לחיצה על החץ",
+				"icon_url": "http://fota.colmobil.co.il.s3-eu-west-1.amazonaws.com/FOTA/apps/app_icons/100fm_icon.png",
+				"fly_version": "1"
+			}
+		},
+		{
+			"type": "com.mgroup.web.EndpointResponseItem.RESPONSE_APP_UPDATE_AVAILABLE",
+			"payload": {
+				"app_name": "91FM.apk",
+				"download_url1": "http://fota.colmobil.co.il.s3-eu-west-1.amazonaws.com/FOTA/apps/Update_apps/91FM/91FM_2.1.8.apk",
+				"version": "2.1.8",
+				"imeiList": ["869654015361797","869654015995891"],
+				"description": "91FM",
+				"package_name": "kaplandev.digital91fmplayer",
+				"model": "all",
+				"tooltip": "אפליקציה המציעה מגוון פלייליסטים בעברית",
+				"icon_url": "http://fota.colmobil.co.il.s3-eu-west-1.amazonaws.com/FOTA/apps/app_icons/91fm_icon.png",
+				"fly_version": "1"
+			}
+		},
+		{
+			"type": "com.mgroup.web.EndpointResponseItem.RESPONSE_APP_UPDATE_AVAILABLE",
+			"payload": {
+				"app_name": "radioin.apk",
+				"download_url1": "http://fota.colmobil.co.il.s3-eu-west-1.amazonaws.com/FOTA/apps/Update_apps/RadioIn_radio/radioin-1.96-colmobile-release.apk",
+				"version": "1.96",
+				"description": "RadioIn Radio",
+				"package_name": "com.radioin.colmobile",
+				"model": "all",
+				"tooltip": "אפליקציה המציעה מגוון תחנות",
+				"icon_url": "http://fota.colmobil.co.il.s3-eu-west-1.amazonaws.com/FOTA/apps/app_icons/radioin_radio_icon.png"
+			}
+		},
+		{
+			"type": "com.mgroup.web.EndpointResponseItem.RESPONSE_APP_UPDATE_AVAILABLE",
+			"payload": {
+				"app_name": "radioin_podcast.apk",
+				"download_url1": "http://fota.colmobil.co.il.s3-eu-west-1.amazonaws.com/FOTA/apps/Update_apps/radioIn_podcast/radioin-1.96-colmobilePodcast-release.apk",
+				"version": "1.96",
+				"description": "RadioIn Podcast",
+				"package_name": "com.radioin.colmobilePodcast",
+				"model": "all",
+				"tooltip": "אפליקציית פודקאסט",
+				"icon_url": "http://fota.colmobil.co.il.s3-eu-west-1.amazonaws.com/FOTA/apps/app_icons/radioin_podcast_icon.png"
+			}
+		},
+		{
+			"type": "com.mgroup.web.EndpointResponseItem.RESPONSE_APP_UPDATE_AVAILABLE",
+			"payload": {
+				"app_name": "102FM.apk",
+				"download_url1": "http://fota.colmobil.co.il.s3-eu-west-1.amazonaws.com/FOTA/apps/Update_apps/102FM/102FM_8.1.0.apk",
+				"version": "8.1.0",
+				"imeiList": ["86965401"],
+				"description": "102FM",
+				"package_name": "com.nobexinc.wls_1942030578.rc",
+				"model": "all",
+				"tooltip": "אפליקציה חדשה המציעה מגוון פלייליסטים בעברית",
+				"icon_url": "http://fota.colmobil.co.il.s3-eu-west-1.amazonaws.com/FOTA/apps/app_icons/102fm_icon.png",
+				"fly_version": "1"
+			}
+		},
+		{
+			"type": "com.mgroup.web.EndpointResponseItem.RESPONSE_APP_UPDATE_AVAILABLE",
+			"payload": {
+				"app_name": "com.Nobex.apk",
+				"download_url1": "http://fota.colmobil.co.il.s3-eu-west-1.amazonaws.com/FOTA/apps/Update_apps/Nobex/com.Nobex_4.1.14.apk",
+				"version": "4.1.14",
+				"imeiList": ["869654013809"],
+				"description": "Nobex",
+				"package_name": "com.nobexinc.hyundai_israel.rc",
+				"model": "all",
+				"icon_url": "http://fota.colmobil.co.il.s3-eu-west-1.amazonaws.com/FOTA/apps/app_icons/nobex_icon.png"
+			}
+		},
+		{
+			"type": "com.mgroup.web.EndpointResponseItem.RESPONSE_APP_UPDATE_AVAILABLE",
+			"payload": {
+				"app_name": "galatz.apk",
+				"download_url1": "http://fota.colmobil.co.il.s3-eu-west-1.amazonaws.com/FOTA/apps/Update_apps/Galaz/galatz_8.1.15.apk",
+				"version": "8.1.15",
+				"imeiList": ["86965401"],
+				"description": "Galatz",
+				"package_name": "com.nobexinc.galatz.car.rc",
+				"model": "all",
+				"tooltip": "אפליקציה חדשה הכוללת פלייליסטים שונים, תכניות ששודרו בעבר ועוד..",
+				"icon_url": "http://fota.colmobil.co.il.s3-eu-west-1.amazonaws.com/FOTA/apps/app_icons/galatz_icon.png",
+				"fly_version": "1"
+			}
+		},
+		{
+			"type": "com.mgroup.web.EndpointResponseItem.RESPONSE_APP_UPDATE_AVAILABLE",
+			"payload": {
+				"app_name": "ColmobilPack.apk",
+				"download_url1": "http://fota.colmobil.co.il.s3-eu-west-1.amazonaws.com/FOTA/apps/Update_apps/ColmobilPack/ColmobilPack_3.17.apk",
+				"version": "3.17",
+				"description": "ColmobilPack",
+				"package_name": "com.mgroup.colmobilsuite",
+				"system": "true",
+				"model": "all",
+				"fly_version": "1"
+			}
+		},
+		{
+			"type": "com.mgroup.web.EndpointResponseItem.RESPONSE_APP_UPDATE_AVAILABLE",
+			"payload": {
+				"app_name": "ColmobilPack.apk",
+				"download_url1": "http://fota.colmobil.co.il.s3-eu-west-1.amazonaws.com/FOTA/apps/Update_apps/ColmobilPack/ColmobilPack_3.21.apk",
+				"version": "3.21",
+				"imeiList": ["869654014673374"],
+				"description": "ColmobilPack",
+				"package_name": "com.mgroup.colmobilsuite",
+				"system": "true",
+				"model": "all",
+				"fly_version": "1"
+			}
+		},
+		{
+			"type": "com.mgroup.web.EndpointResponseItem.RESPONSE_APP_UPDATE_AVAILABLE",
+			"payload": {
+				"app_name": "AutoKit.apk",
+				"download_url1": "http://fota.colmobil.co.il.s3-eu-west-1.amazonaws.com/FOTA/apps/Update_apps/AutoKit/AutoKit_1.apk",
+				"version": "1.1.2",
+				"imeiList": ["869654013554310"],
+				"description": "AutoKit",
+				"package_name": "cn.manstep.phonemirrorBox",
+				"model": "all",
+				"system": "true",
+				"reboot": "true",
+				"fly_version": "1"
+			}
+		},
+		{
+			"type": "com.mgroup.web.EndpointResponseItem.RESPONSE_APP_UPDATE_AVAILABLE",
+			"payload": {
+				"app_name": "RadioAllFM.apk",
+				"download_url1": "http://fota.colmobil.co.il.s3-eu-west-1.amazonaws.com/FOTA/apps/Update_apps/allFM/AllFM_27_2.apk",
+				"version": "27.2",
+				"description": "All FM",
+				"package_name": "kaplandev.allfmplayer",
+				"model": "all",
+				"system": "false",
+				"reboot": "false",
+				"icon_url": "http://fota.colmobil.co.il.s3-eu-west-1.amazonaws.com/FOTA/apps/app_icons/All-FM.png",
+				"fly_version": "1"
+			}
+		},
+		{
+			"type": "com.mgroup.web.EndpointResponseItem.RESPONSE_APP_UPDATE_AVAILABLE",
+			"payload": {
+				"app_name": "RadioAllFM.apk",
+				"download_url1": "http://fota.colmobil.co.il.s3-eu-west-1.amazonaws.com/FOTA/apps/Update_apps/allFM/ALLFM_2.3.6.apk",
+				"version": "27.6",
+				"imeiList": ["869654015361797","869654015995891"],
+				"description": "All FM",
+				"package_name": "kaplandev.allfmplayer",
+				"model": "all",
+				"system": "false",
+				"reboot": "false",
+				"icon_url": "http://fota.colmobil.co.il.s3-eu-west-1.amazonaws.com/FOTA/apps/app_icons/All-FM.png",
+				"fly_version": "1"
+			}
+		},
+		{
+			"type": "com.mgroup.web.EndpointResponseItem.RESPONSE_APP_UPDATE_AVAILABLE",
+			"payload": {
+				"app_name": "KiloLinkDongle.apk",
+				"download_url1": "http://fota.colmobil.co.il.s3-eu-west-1.amazonaws.com/FOTA/apps/Update_apps/KiloLinkDongle/KiloLinkdongle.apk",
+				"version": "1.0",
+				"imeiList": ["869654015150554","869654013641679"],
+				"description": "AndroidAuto Dongle",
+				"package_name": "cn.sinjet.navidongle",
+				"model": "all",
+				"system": "false",
+				"reboot": "false",
+				"fly_version": "1"
+			}
+		},
+		{
+			"type": "com.mgroup.web.EndpointResponseItem.RESPONSE_APP_UPDATE_AVAILABLE",
+			"payload": {
+				"app_name": "MGService.apk",
+				"download_url1": "http://fota.colmobil.co.il.s3-eu-west-1.amazonaws.com/FOTA/apps/Update_apps/MGService/MGService_4.74.apk",
+				"version": "4.74",
+				"imeiList": ["869654013605724","869654015361797","869654014673374"],
+				"description": "MGService",
+				"package_name": "com.mgroup.jenefota",
+				"model": "all",
+				"system": "true",
+				"reboot": "true",
+				"fly_version": "1"
+			}
+		},
+		{
+			"type": "com.mgroup.web.EndpointResponseItem.RESPONSE_APP_UPDATE_AVAILABLE",
+			"payload": {
+				"app_name": "MGService.apk",
+				"download_url1": "http://fota.colmobil.co.il.s3-eu-west-1.amazonaws.com/FOTA/apps/Update_apps/MGService/MGService_4.76.apk",
+				"version": "4.76",
+				"description": "MGService",
+				"package_name": "com.mgroup.jenefota",
+				"model": "all",
+				"system": "true",
+				"reboot": "true",
+				"fly_version": "1"
+			}
+		},
+		{
+			"type": "com.mgroup.web.EndpointResponseItem.RESPONSE_APP_UPDATE_AVAILABLE",
+			"payload": {
+				"app_name": "NewDesign.apk",
+				"download_url1": "http://fota.colmobil.co.il.s3-eu-west-1.amazonaws.com/FOTA/apps/Update_apps/NewDesign/NewDesign_1.1.apk",
+				"version": "1.1",
+				"imeiList": ["869654014"],
+				"description": "NewDesign",
+				"package_name": "com.example.newdesign",
+				"model": "all",
+				"system": "false",
+				"reboot": "false",
+				"fly_version": "1"
+			}
+		}
+	]
+}
